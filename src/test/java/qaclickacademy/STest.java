@@ -8,6 +8,7 @@ public class STest {
 public void browser()
 {
 	System.out.println("yeah");
+	System.out.println("i am checking the GitHub updates");
 }
 
 	@Test
