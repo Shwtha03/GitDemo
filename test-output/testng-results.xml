@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-13T22:56:28 SGT" name="Default suite" finished-at="2021-12-13T22:56:28 SGT" duration-ms="43">
+    <groups>
+    </groups>
+    <test started-at="2021-12-13T22:56:28 SGT" name="Default test" finished-at="2021-12-13T22:56:28 SGT" duration-ms="43">
+      <class name="qaclickacademy.STest">
+        <test-method signature="browser()[pri:0, instance:qaclickacademy.STest@794cb805]" started-at="2021-12-13T22:56:28 SGT" name="browser" finished-at="2021-12-13T22:56:28 SGT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+      </class> <!-- qaclickacademy.STest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
